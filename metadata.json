@@ -1,0 +1,6 @@
+{
+  "name": "SMART MESS BD",
+  "description": "Professional Mobile First Cloud ERP & POS Smart Mess Billing application supporting bKash, invoices, receipts, and custom reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
